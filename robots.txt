@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://GitHubwukai.github.io/wukai/sitemap.xml 
